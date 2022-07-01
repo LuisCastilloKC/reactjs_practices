@@ -12,8 +12,12 @@ function App() {
       <ButtonGroup buttons={["One", "Two", "Three", "Four"]} />
       <Text />
       <Form />
+<<<<<<< HEAD
       <Counter />
       <Input2 />
+=======
+      <Challenge />
+>>>>>>> 4211829 (reactjs challange)
     </div>
   );
 }
