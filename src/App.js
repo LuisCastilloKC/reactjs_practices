@@ -15,9 +15,16 @@ function App() {
 <<<<<<< HEAD
       <Counter />
       <Input2 />
+<<<<<<< HEAD
 =======
       <Challenge />
 >>>>>>> 4211829 (reactjs challange)
+=======
+      <div>
+        <h1>Child To Parent</h1>
+        <Form />
+      </div>
+>>>>>>> 969f4f2 (practice passing data from child to parent)
     </div>
   );
 }

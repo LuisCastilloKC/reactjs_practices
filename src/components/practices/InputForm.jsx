@@ -11,7 +11,7 @@ const Text = () => {
     return(
         <div>
             <input type="text" onChange={getDataValue} />
-            <div>{textdata} </div>
+            <div>{textdata}</div>
         </div>
     );
 };
